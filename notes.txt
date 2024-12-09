@@ -1,0 +1,4 @@
+- chú ý sửa assets path phù hợp với tứng máy, có cách nào universal không nhỉ?
+- còn 5 màn của 5 sort
+- chat screen thì thêm vào đâu?
+- 
