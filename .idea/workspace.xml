@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c871c618-b41e-4f21-8555-18354fd90e97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/ArrayUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/BubbleSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/InsertionSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/MergeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/QuickSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/SelectionSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/Test/ShellSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/exception/DataTypeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/exception/NullException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/exception/OutOfBoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/input/BubbleSortInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/input/InsertionSortInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/input/MergeSortInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/input/QuickSortInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/input/SelectionSortInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/input/ShellSortInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/sorting/SortingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/bin/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/ArrayUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/BubbleSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/InsertionSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/MergeSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/QuickSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/SelectionSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/Test/ShellSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/controller/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/controller/SortingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/exception/DataTypeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/exception/NullException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/exception/OutOfBoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/input/BubbleSortInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/input/InsertionSortInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/input/MergeSortInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/input/QuickSortInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/input/SelectionSortInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/input/ShellSortInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/sorting/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/sorting/SortingAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/util/DataUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/view/BaseScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/view/CountingSortScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/view/HomeScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/view/MergeSortScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/view/RadixSortScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/src/view/SortingScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/presentation/bandicam 2022-07-13 22-21-47-579.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/presentation/presentation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/report/report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/component/MySlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/component/MySlider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/component/MyTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/component/MyTextField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/component/SortButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/component/SortButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/listener/SortListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/listener/SortListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/view/BaseScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/view/BaseScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/view/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/view/HomeScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj/sourcecode/src/visualso/view/SortingScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/prj/sourcecode/src/visualso/view/SortingScreen.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dinhtruongng"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dinhtruongng/AlgoVisual.git",
+    "accountId": "bab82e84-06d3-4d7c-8660-81f9b531cb85"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2pyuSJ5wg4A70OVoJHu1lcgam4Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c871c618-b41e-4f21-8555-18354fd90e97" name="Changes" comment="" />
+      <created>1733750634373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733750634373</updated>
+      <workItem from="1733750635480" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

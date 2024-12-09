@@ -1,4 +1,10 @@
 - chú ý sửa assets path phù hợp với tứng máy, có cách nào universal không nhỉ?
 - còn 5 màn của 5 sort
+    Trường: BubbleSort
+    An: SelectionSort
+    Nhất: ShellSort
+    Phúc: InsertionSort
+    Linh: QuickSort
+
 - chat screen thì thêm vào đâu?
 - 
